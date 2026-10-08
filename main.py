@@ -48,7 +48,7 @@ import os
 
 
 
-api_key = os.environ.get(OWM_API_KEY)
+api_key = os.environ.get("OWM_API_KEY")
 # city_country = 'Huelva,Spain'
 lat = 50.075539 # Prague
 lon = 14.437800 # Prague
